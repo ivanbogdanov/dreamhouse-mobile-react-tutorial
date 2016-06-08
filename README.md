@@ -1,4 +1,4 @@
-## DreamHouse App (ReactNative + Salesforce MobileSDK). 
+## Step by Step Tutorial for DreamHouse App (ReactNative + Salesforce MobileSDK). 
 
 ![iOS Screenshot](/README_files/screen2.png?raw=true)  ![iOS Screenshot](/README_files/screen1.png?raw=true)
 

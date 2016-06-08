@@ -1,10 +1,11 @@
 {
-  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "5991135B82C8515505DA5B3F9735D55C7D261D9F+++71CB9FC",
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "5991135B82C8515505DA5B3F9735D55C7D261D9F+++274886C",
   "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
 
   },
   "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
     "5991135B82C8515505DA5B3F9735D55C7D261D9F+++DF3A9D1" : 0,
+    "5991135B82C8515505DA5B3F9735D55C7D261D9F+++274886C" : 0,
     "5991135B82C8515505DA5B3F9735D55C7D261D9F+++71CB9FC" : 0,
     "5991135B82C8515505DA5B3F9735D55C7D261D9F+++8604BED" : 0,
     "5991135B82C8515505DA5B3F9735D55C7D261D9F+++C688025" : 0,
@@ -13,6 +14,7 @@
   "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "2C75941B-9BA0-439D-A274-49826F164E21",
   "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
     "5991135B82C8515505DA5B3F9735D55C7D261D9F+++DF3A9D1" : "..\/dreamhouse",
+    "5991135B82C8515505DA5B3F9735D55C7D261D9F+++274886C" : "dreamhouse-mobile-react-tutorial\/",
     "5991135B82C8515505DA5B3F9735D55C7D261D9F+++71CB9FC" : "dreamhouse-mobile-react\/",
     "5991135B82C8515505DA5B3F9735D55C7D261D9F+++8604BED" : "..\/msdkdev\/dreamhouse",
     "5991135B82C8515505DA5B3F9735D55C7D261D9F+++C688025" : "dreamhouse\/",
@@ -26,6 +28,11 @@
       "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "github.com:ivanbogdanov\/dreamhouse.git",
       "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
       "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "5991135B82C8515505DA5B3F9735D55C7D261D9F+++0BA8853"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "github.com:ForceDotComLabs\/dreamhouse-mobile-react.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "5991135B82C8515505DA5B3F9735D55C7D261D9F+++274886C"
     },
     {
       "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "github.com:ForceDotComLabs\/dreamhouse-mobile-react.git",
